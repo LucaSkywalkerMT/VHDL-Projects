@@ -1,0 +1,1 @@
+-intstyle "ise" -incremental -o "D:/UNI/2020.21/HDL/Projects/SevenCounter/SevenCounter_tl_isim_beh.exe" -prj "D:/UNI/2020.21/HDL/Projects/SevenCounter/SevenCounter_tl_beh.prj" "work.SevenCounter_tl" 

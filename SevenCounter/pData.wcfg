@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<wave_config>
+   <wave_state>
+   </wave_state>
+   <db_ref_list>
+      <db_ref path="D:/UNI/2020.21/HDL/Projects/SevenCounter/SevenCounter_tl_isim_beh.wdb" id="1" type="auto">
+         <top_modules>
+            <top_module name="attributes" />
+            <top_module name="sevencounter_tl" />
+            <top_module name="std_logic_1164" />
+            <top_module name="std_logic_arith" />
+            <top_module name="std_logic_misc" />
+            <top_module name="std_logic_unsigned" />
+         </top_modules>
+      </db_ref>
+   </db_ref_list>
+   <WVObjectSize size="9" />
+   <wvobject fp_name="/sevencounter_tl/rst" type="logic" db_ref_id="1">
+      <obj_property name="ElementShortName">rst</obj_property>
+      <obj_property name="ObjectShortName">rst</obj_property>
+   </wvobject>
+   <wvobject fp_name="/sevencounter_tl/clk" type="logic" db_ref_id="1">
+      <obj_property name="ElementShortName">clk</obj_property>
+      <obj_property name="ObjectShortName">clk</obj_property>
+   </wvobject>
+   <wvobject fp_name="/sevencounter_tl/pdata" type="array" db_ref_id="1">
+      <obj_property name="ElementShortName">pdata[3:0]</obj_property>
+      <obj_property name="ObjectShortName">pdata[3:0]</obj_property>
+      <obj_property name="Radix">UNSIGNEDDECRADIX</obj_property>
+   </wvobject>
+   <wvobject fp_name="/sevencounter_tl/pdata_en" type="logic" db_ref_id="1">
+      <obj_property name="ElementShortName">pdata_en</obj_property>
+      <obj_property name="ObjectShortName">pdata_en</obj_property>
+   </wvobject>
+   <wvobject fp_name="/sevencounter_tl/cntr_en" type="logic" db_ref_id="1">
+      <obj_property name="ElementShortName">cntr_en</obj_property>
+      <obj_property name="ObjectShortName">cntr_en</obj_property>
+   </wvobject>
+   <wvobject fp_name="/sevencounter_tl/bcd_mode" type="logic" db_ref_id="1">
+      <obj_property name="ElementShortName">bcd_mode</obj_property>
+      <obj_property name="ObjectShortName">bcd_mode</obj_property>
+   </wvobject>
+   <wvobject fp_name="/sevencounter_tl/data" type="array" db_ref_id="1">
+      <obj_property name="ElementShortName">data[3:0]</obj_property>
+      <obj_property name="ObjectShortName">data[3:0]</obj_property>
+      <obj_property name="Radix">UNSIGNEDDECRADIX</obj_property>
+   </wvobject>
+   <wvobject fp_name="/sevencounter_tl/carry" type="logic" db_ref_id="1">
+      <obj_property name="ElementShortName">carry</obj_property>
+      <obj_property name="ObjectShortName">carry</obj_property>
+   </wvobject>
+   <wvobject fp_name="/sevencounter_tl/output" type="array" db_ref_id="1">
+      <obj_property name="ElementShortName">output[6:0]</obj_property>
+      <obj_property name="ObjectShortName">output[6:0]</obj_property>
+   </wvobject>
+</wave_config>

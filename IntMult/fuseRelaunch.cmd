@@ -1,0 +1,1 @@
+-intstyle "ise" -incremental -o "C:/Users/Luca/Documents/Personal Work/UNI/2020.21/HDL/Projects/IntMult/IntMult_tl_isim_beh.exe" -prj "C:/Users/Luca/Documents/Personal Work/UNI/2020.21/HDL/Projects/IntMult/IntMult_tl_beh.prj" "work.IntMult_tl" 
