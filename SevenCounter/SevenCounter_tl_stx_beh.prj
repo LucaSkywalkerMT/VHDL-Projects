@@ -1,4 +1,0 @@
-vhdl isim_temp "SevenCounter_tb.vhd"
-vhdl isim_temp "DisplayDriver.vhd"
-vhdl isim_temp "Counter.vhd"
-vhdl isim_temp "SevenCounter_tl.vhd"

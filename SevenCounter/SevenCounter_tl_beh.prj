@@ -1,4 +1,0 @@
-vhdl work "SevenCounter_tb.vhd"
-vhdl work "DisplayDriver.vhd"
-vhdl work "Counter.vhd"
-vhdl work "SevenCounter_tl.vhd"

@@ -1,3 +1,0 @@
-vhdl isim_temp "IntMult_tb.vhd"
-vhdl isim_temp "IntMult.vhd"
-vhdl isim_temp "IntMult_tl.vhd"
